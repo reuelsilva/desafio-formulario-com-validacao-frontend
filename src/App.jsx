@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="flex flex-col gap-2 max-w-[640px] w-full sm:min-h-[calc(100vh-130px)] mx-auto my-0 p-3">
+      <div className="flex flex-col gap-2 max-w-[640px] w-full min-h-[calc(100vh-130px)] mx-auto my-0 p-3">
         <div className="bg-white border border-solid border-gray-200 rounded-lg overflow-hidden">
           <div className="bg-color-01 h-4"></div>
           <div className="p-3">
